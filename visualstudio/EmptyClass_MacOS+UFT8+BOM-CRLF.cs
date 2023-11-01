@@ -10,3 +10,4 @@ namespace TwitchDownloaderCLI.Modes
 	}
 }
 // This is a comment
+// ¢
