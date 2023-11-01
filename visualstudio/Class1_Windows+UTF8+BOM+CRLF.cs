@@ -1,4 +1,5 @@
-﻿using System;
+// This is a comment
+using System;
 
 public class Class1
 {
@@ -6,3 +7,4 @@ public class Class1
 	{
 	}
 }
+// This is a comment
