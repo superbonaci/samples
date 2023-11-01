@@ -1,4 +1,5 @@
-﻿using System;
+// This is a comment
+using System;
 namespace TwitchDownloaderCLI.Modes
 {
 	public class EmptyClass
@@ -8,4 +9,4 @@ namespace TwitchDownloaderCLI.Modes
 		}
 	}
 }
-
+// This is a comment
